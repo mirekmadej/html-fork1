@@ -28,6 +28,8 @@ body{
 }
 .d03{
 	height: 40px;
+	text-align: center;
+	background-image: linear-gradient(violet, goldenrod, rgb(69, 79, 173));
 
 }
 .d04{

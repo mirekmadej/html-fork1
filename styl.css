@@ -63,8 +63,10 @@ body{
 }
 .d12{
 	height: 40px;
-
+	background-color: blueviolet;
+	color:white;
 }
+
 .d13{
 	height: 40px;
 
